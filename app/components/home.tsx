@@ -668,7 +668,7 @@ export function Home() {
               />
             </div>
             <div className={styles["sidebar-action"]}>
-              <a href={REPO_URL} target="_blank">
+              <a href="https://qm.qq.com/cgi-bin/qm/qr?k=F_qECUWRgjMTEKKDvkIAwlLrKnqXT-I3&noverify=0&personal_qrcode_source=2" target="_blank">
                 <IconButton icon={<GithubIcon />} />
               </a>
             </div>
